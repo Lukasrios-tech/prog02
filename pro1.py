@@ -1,2 +1,1 @@
-print = "Ola Github"
- 
+print ("Ola Github")
